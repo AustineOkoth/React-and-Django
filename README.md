@@ -3,5 +3,11 @@ In this project I have used React.js (as the frontend) and Python based framewor
 
 *** Requirements ***
 
-Ensure that Python is installed and properly setup in your machine. Have Django installed. Install the django-rest-framework.
-The approprite routes are located in ReactFrontend/src/components/App.jsx The Django framwork is responsible for creating the model used and the database used to store the data.
+Ensure that Python is installed and properly setup in your machine. 
+Have Django installed. 
+Install the django-rest-framework which will be used to communicate with the react application.
+
+***********************
+
+The approprite routes are located in ReactFrontend/src/components/App.jsx 
+The Django framwork is responsible for creating the model used and the database used to store the data.
